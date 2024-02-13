@@ -1,4 +1,4 @@
-;bubble Sort
+;Bubble Sort
     AREA RESET,DATA,READONLY
 	EXPORT __Vectors
 __Vectors

@@ -1,4 +1,4 @@
-	;Linear Search
+	;Linear search
     AREA RESET,DATA,READONLY
 	EXPORT __Vectors
 

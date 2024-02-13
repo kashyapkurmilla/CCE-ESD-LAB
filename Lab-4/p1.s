@@ -1,4 +1,4 @@
-	;Selection Sort
+	;Selection sort
     AREA reset,DATA,READONLY
 	EXPORT __Vectors
 __Vectors

@@ -1,4 +1,4 @@
-;factorial of a number
+;Factorial of a number
     AREA RESET,DATA,READONLY
 	EXPORT __Vectors
 __Vectors
